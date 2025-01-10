@@ -1,1 +1,1 @@
-This project is made for school management system !
+This project was made for school management system !
